@@ -1,5 +1,2 @@
 Welcome to DevOps 2nd day Class
 Hi there
-we are facing issue
-Hello World
-Hello world 
