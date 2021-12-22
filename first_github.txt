@@ -2,4 +2,5 @@ Welcome to DevOps 2nd day Class
 first conflict
 Hi there
 git conflict
-committed in master from santosh
+bikash commit
+committed from santosh
